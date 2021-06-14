@@ -16,10 +16,10 @@ public class SignInPage extends net.serenitybdd.core.pages.PageObject {
     private static Logger logger = LoggerFactory.getLogger(SignInPage.class);
 
     public void loginAsuser() {
-        String email = "o.ivankovckyi";
-        //admin
-        String password = "15028819";
-        //!t52p6FYy
+        String email = "";
+        //
+        String password = "";
+        //
         logger.info("Entering email: " + email + " and password: " + password);
         $(LOCATORS.USER_NAME_FIELD).sendKeys(email);
         $(LOCATORS.PASSWORD_FIELD).sendKeys(password);
