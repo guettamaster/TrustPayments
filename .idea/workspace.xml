@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8bb90b-9061-42e7-b42a-23640cba1307" name="Default Changelist" comment="config project with test example">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/01.SignInPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/01.SignInPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trust-payment-extension" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,7 @@
       <workItem from="1623404106404" duration="1647000" />
       <workItem from="1623409789244" duration="7081000" />
       <workItem from="1623447257204" duration="739000" />
-      <workItem from="1623690279787" duration="2171000" />
+      <workItem from="1623690279787" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1623420658120</created>
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623691716541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="config project with test example">
+      <created>1623692518807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623692518807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
